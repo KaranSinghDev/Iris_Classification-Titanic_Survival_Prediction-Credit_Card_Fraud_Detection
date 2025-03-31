@@ -12,3 +12,5 @@ This project involves developing a machine learning model to predict whether a p
 - `model.py`: Script to train and save the Logistic Regression model.
 - `app.py`: Flask application for user interaction and prediction.
 - `templates/index.html`: HTML template for the web application interface.
+
+Feel free to test 
